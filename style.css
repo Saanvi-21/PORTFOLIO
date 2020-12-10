@@ -1,0 +1,65 @@
+
+#image1 {
+    width: 1000px;
+    height: 500px;
+}
+
+#name {
+    margin: auto;
+    margin-top: -300px;
+    color: #fff;
+}
+
+#image2 {
+    width: 380px;
+    height: 400px;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: transparent;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarousel2 {
+    background-color: transparent;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+#image3 {
+    width: 200px;
+    height: 250px;
+}
+#contact {
+    background-color: gold;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#contact1 h3 {
+    display: inline;
+}
+
+#contact1 a {
+    color: white;
+    text-shadow: none;
+}
